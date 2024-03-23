@@ -7,7 +7,7 @@ import { usePathname } from 'next/navigation';
 
 
 function Navbar() {
-    //-----------for uaccessing pathname using usePathname method-----------
+    //-----------for accessing pathname using usePathname method-----------
     const pathname = usePathname();
     const isActive = (path: string) => path === pathname;
     const NavLinks = [
