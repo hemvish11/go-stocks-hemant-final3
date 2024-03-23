@@ -1,0 +1,22 @@
+{
+    "stories": [
+        {
+            "id": 10,
+            "image": "/images/story-image.jpg",
+            "title": "The Coldest Sunset",
+            "description": "Lorem Ipsum dolor sit amet, consectetur adipisicating elit. Voluptatibus aquia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil."
+        },
+        {
+            "id": 10,
+            "image": "/images/story-image.jpg",
+            "title": "The Coldest Sunset",
+            "description": "Lorem Ipsum dolor sit amet, consectetur adipisicating elit. Voluptatibus aquia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil."
+        },
+        {
+            "id": 10,
+            "image": "/images/story-image.jpg",
+            "title": "The Coldest Sunset",
+            "description": "Lorem Ipsum dolor sit amet, consectetur adipisicating elit. Voluptatibus aquia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil."
+        }
+    ]
+}
